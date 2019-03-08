@@ -20,7 +20,17 @@ Sass is more stable and powerful CSS extension language that describes style of 
 
 ## SASS: Installation and Execution:
 
-You have to install Ruby for executing the SASS files.
+## Install Anywhere (npm)
+
+If you use Node.js, you can also install Sass using npm by running
+
+```
+npm install -g sass
+```
+
+However, please note that this will install the pure JavaScript implementation of Sass, which runs somewhat slower than the other options listed here. But it has the same interface, so it'll be easy to swap in another implementation later if you need a bit more speed!
+
+## Install with Ruby for executing the SASS files.
 
 ### Install Ruby:
 
