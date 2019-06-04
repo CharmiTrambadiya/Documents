@@ -16,7 +16,7 @@
 * Add details about the sonar server here. The plugin will use this to download the    quality profile/analyzers etc.
 * This plugin executes the analysis in preview mode where no data is pushed to the     server.
 
-![install](https://github.com/CharmiTrambadiya/Documents/blob/master/images/sever.PNG)
+![install](https://github.com/CharmiTrambadiya/Documents/blob/master/images/server.PNG)
 
 ![install](https://github.com/CharmiTrambadiya/Documents/blob/master/images/settings.PNG)
 
